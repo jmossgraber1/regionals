@@ -38,4 +38,7 @@
     object-fit: scale-down;
 }
 
+.card-content.cover-image {
+    visibility: collapse;
+}
 
