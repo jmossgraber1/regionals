@@ -34,3 +34,8 @@
     visibility: collapse;
 }
 
+.ImgResponsive.cover {
+    object-fit: scale-down;
+}
+
+
