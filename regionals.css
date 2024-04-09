@@ -15,13 +15,3 @@
     text-align: center;
 }
 
-.section-content[_ngcontent-qti-c202]:not(.event-register) {
-    max-width: 80rem;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: .1875rem;
-    width: 100%;
-    align-content: center;
-    align-items: center;
-    text-align: center;
-}
