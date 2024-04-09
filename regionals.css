@@ -8,3 +8,11 @@
     color: gray !important;
     text-align: center !important;
 }
+
+.event-details {
+    text-align: center !important;
+}
+
+.event-details {
+    visibility: collapse !important;
+}
