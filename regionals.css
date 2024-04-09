@@ -29,3 +29,8 @@
 .content {
     text-align: -webkit-center;
 }
+
+.event-date {
+    visibility: collapse;
+}
+
