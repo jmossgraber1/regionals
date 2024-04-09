@@ -16,3 +16,30 @@
 .event-details {
     visibility: collapse !important;
 }
+
+.hero-wrapper {
+    padding: 0rem 8.8rem 7.2rem !important:
+}
+
+.register-button, .contactus-button {
+    align-content: center;
+    text-align: -webkit-center;
+    object-position: center;
+    background-color: var(--primaryColorOriginal);
+    border: none;
+    border-radius: -15.6875rem;
+    color: var(--primaryColorOriginalTextContrast);
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.125rem;
+    font-weight: 700;
+    line-height: 1;
+    padding: 1.25rem 4rem;
+    text-align: center;
+    text-transform: uppercase;
+    justify-self: center;
+    background-position-x: center;
+    background-position-y: center;
+    text-align-last: center;
+    margin-left: 18.6rem !important;
+    margin-right: -6.875rem !important;}
