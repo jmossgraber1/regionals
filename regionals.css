@@ -10,3 +10,41 @@
     object-fit: scale-down;
     font-family: "object-fit: cover;";
 }
+
+.headline {
+    color: gray;
+    font-size: 4rem;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+    line-height: 1;
+    margin: 0 0 2rem;
+    text-align: center;
+}
+
+.event-date.event-time {
+    color: lightgrey;
+    font-size: 1.75rem;
+    font-weight: 700;
+    line-height: 1.2;
+    text-align: center;
+    margin-bottom: .25rem;
+}
+
+.event-date {
+    color: lightgrey;
+    font-size: 1.75rem;
+    font-weight: 700;
+    line-height: 1.2;
+    text-align: center;
+    margin-bottom: .25rem;
+}
+
+.event-time {
+    color: lightgrey;
+    font-size: 1.75rem;
+    font-weight: 700;
+    line-height: 1.2;
+    text-align: center;
+    margin-bottom: .25rem;
+}
