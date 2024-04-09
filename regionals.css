@@ -1,46 +1,10 @@
-.event-date,
-.event-time {
-    color: gray;
-}
-
-
-.section-content {
-    max-width: 80rem;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: .1875rem;
-    width: 100%;
-    align-content: center;
-    align-items: center;
-    text-align: center !important;
+.ImgResponsive.cover {
+    -o-object-fit: cover;
+    object-fit: scale-down !important;
+    font-family: "object-fit: cover;"  !important ;
 }
 
 .headline {
-    color: var(--backgroundTextColor);
-    font-size: 4rem;
-    -webkit-hyphens: auto;
-    -ms-hyphens: auto;
-    hyphens: auto;
-    line-height: 1;
-    margin: 0 0 2rem;
+    color: gray !important;
     text-align: center !important;
 }
-
-.content {
-    text-align: -webkit-center !important;
-}
-
-.event-date {
-    visibility: collapse;
-}
-
-.ImgResponsive.cover {
-    object-fit: scale-down !important;
-}
-
-.card-content.cover-image {
-    visibility: collapse !important;
-}
-
-
-
