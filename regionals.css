@@ -12,7 +12,7 @@
     width: 100%;
     align-content: center;
     align-items: center;
-    text-align: center;
+    text-align: center !important;
 }
 
 .headline {
@@ -23,11 +23,11 @@
     hyphens: auto;
     line-height: 1;
     margin: 0 0 2rem;
-    text-align: center;
+    text-align: center !important;
 }
 
 .content {
-    text-align: -webkit-center;
+    text-align: -webkit-center !important;
 }
 
 .event-date {
@@ -35,10 +35,12 @@
 }
 
 .ImgResponsive.cover {
-    object-fit: scale-down;
+    object-fit: scale-down !important;
 }
 
 .card-content.cover-image {
-    visibility: collapse;
+    visibility: collapse !important;
 }
+
+
 
