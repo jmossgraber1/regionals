@@ -1,4 +1,12 @@
-img.ImgResponsive.cover.hideAltText {
+.ImgResponsive.cover[_ngcontent-wbt-c173] {
+    -o-object-fit: cover;
     object-fit: scale-down;
+    font-family: "object-fit: cover;";
 }
 
+
+.ImgResponsive.cover {
+    -o-object-fit: cover;
+    object-fit: scale-down;
+    font-family: "object-fit: cover;";
+}
