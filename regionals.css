@@ -45,3 +45,8 @@
     padding-left: 15rem !important;
     padding-right: 15rem !important;
    }
+
+.event-date, .event-time {
+     color: gray !important;
+}
+
