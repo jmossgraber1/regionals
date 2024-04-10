@@ -11,10 +11,7 @@
 
 .event-details {
     text-align: center !important;
-}
-
-.event-details {
-    visibility: collapse !important;
+       color: gray !important;
 }
 
 .hero-wrapper {
