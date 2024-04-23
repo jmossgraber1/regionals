@@ -60,13 +60,3 @@
     margin: auto !important;
 }
 
-h2, .content h2 {
-    visibility: collapse;
-}
-
-.h2, .content h2 {
-    visibility: collapse;
-}
-.content h2 {
-    visibility: collapse;
-}
