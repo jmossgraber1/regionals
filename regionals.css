@@ -4,6 +4,12 @@
     font-family: "object-fit: cover;"  !important ;
 }
 
+.hero-image, .hero-overlay {
+    visibility: hidden !important;
+}
+
+
+
 .headline {
     color: gray !important;
     text-align: center !important;
