@@ -13,12 +13,15 @@
 .headline {
     color: gray !important;
     text-align: center !important;
+    line-height: 0 !important;
+    visibility: collapse !important;
 }
 
 .event-details {
     text-align: center !important;
        color: gray !important;
     visibility: collapse !important;
+    line-height: 0 !important;
 }
 
 .hero-wrapper {
