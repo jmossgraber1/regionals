@@ -61,5 +61,9 @@
 }
 
 h2.subhead{
-        visibility: collapse;
+        visibility: collapse !important;
+}
+
+.subhead{
+        visibility: collapse !important;
 }
