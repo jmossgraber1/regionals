@@ -60,3 +60,6 @@
     margin: auto !important;
 }
 
+h2.subhead{
+        visibility: collapse;
+}
