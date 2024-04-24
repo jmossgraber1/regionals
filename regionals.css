@@ -50,6 +50,8 @@
 
 .event-date, .event-time {
      color: gray !important;
+    visibility: collapse !important;
+    
 }
 
 .register-button-centered, .contactus-button-centered {
@@ -66,4 +68,8 @@ h2.subhead{
 
 .subhead{
         visibility: collapse !important;
+}
+
+.headline{
+    visibility: collapse !important;
 }
