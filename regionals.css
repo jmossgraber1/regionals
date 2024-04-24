@@ -55,6 +55,7 @@
 .event-date, .event-time {
      color: gray !important;
     visibility: collapse !important;
+    line-height: 0 !important;
     
 }
 
