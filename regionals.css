@@ -5,3 +5,8 @@ h1.event-name.ng-tns-c205-0 {
 h1.event-name {
     display: none !important;
 }
+
+.event-start-end-date {
+    display: none !important;
+    margin-top: 1rem;
+}
