@@ -10,3 +10,7 @@ h1.event-name {
     display: none !important;
     margin-top: 1rem;
 }
+
+.start-date, .end-date {
+     display: none !important;
+}
